@@ -6,7 +6,7 @@
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "git@github.com:gl-pv/react-inplace-editor.git"
+    "url": "git@github.com:panzy/react-inplace-editor.git"
   },
   "keywords": [
     "react",
