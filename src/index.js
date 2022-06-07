@@ -35,6 +35,10 @@ export default function InplaceEditor({
     }
   }, [inputValue, isInputVisible])
 
+  useEffect(() => {
+    setInputValue(defaultInputValue)
+  }, [defaultInputValue])
+
   function handleClickOutside(e) {
     const target = e.target
 
